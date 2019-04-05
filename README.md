@@ -9,4 +9,4 @@ cat /tmp/prop-test-host/mp/mountinfo-container
 ```
 
 You may need to disable user namespace remapping `--userns host`
-due to https://github.com/moby/moby/issues/36472 .
+due to https://github.com/moby/moby/issues/36472#issuecomment-480388275 .
